@@ -11,7 +11,7 @@ const Hero = () => {
         <button
           type='button'
           onClick={() =>
-            window.open("https://github.com/Harshi-max/Summarize", "_blank")
+            window.open("https://github.com/Harshi-max/summarize", "_blank")
           }
           className='black_btn'
         >
